@@ -1,3 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+  }
+  header {
+    background: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  nav {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    background: #eaeaea;
+    padding: 1rem 0;
+  }
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  main {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+  }
+  footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+=======
 /* styles.css (for all pages) */
 body {
     font-family: Arial, sans-serif;
@@ -36,4 +75,5 @@ body {
     padding: 1rem;
     margin-top: 2rem;
   }
+>>>>>>> 67fb310240bb9bf0b15965a80a9169c4932dc530
   
